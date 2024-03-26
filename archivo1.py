@@ -1,5 +1,4 @@
-print("Hola Mundo")
+print("Chao Mundo")
 
-def color1():
+def color2():
     pass
-
